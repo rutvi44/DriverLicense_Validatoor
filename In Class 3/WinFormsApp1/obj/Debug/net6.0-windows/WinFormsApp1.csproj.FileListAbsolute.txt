@@ -1,0 +1,68 @@
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\Conestoga\PC2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.txtDateofBirth.resources
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.txtDateofBirth.resources
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Assignment2\Assignment2\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.txtDateofBirth.resources
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Assignment2\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.txtDateofBirth.resources
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\mistr\OneDrive - Conestoga College\Rutvi Conestoga_OneDrive\Sem 2\Programming Concepts-2\Inclass\Inclass3\In Class 3\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
